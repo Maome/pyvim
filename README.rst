@@ -1,6 +1,8 @@
 pyvim
 =====
 
+test
+
 *A Vi clone in Python.*
 
 It's a bit experimental, but it's certainly usable.
